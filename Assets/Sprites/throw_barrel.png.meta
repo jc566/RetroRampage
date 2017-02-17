@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 8d611b9bf4415a8429396c7b5d0247e5
+timeCreated: 1482036013
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: throw_barrel_0
+    21300002: throw_barrel_1
+    21300004: throw_barrel_2
+    21300006: throw_barrel_3
+    21300008: throw_barrel_4
+    21300010: throw_barrel_5
+    21300012: throw_barrel_6
+    21300014: throw_barrel_7
+    21300016: throw_barrel_8
+    21300018: throw_barrel_10
+    21300020: throw_barrel_11
+    21300022: throw_barrel_12
+    21300024: throw_barrel_13
+    21300026: throw_barrel_14
+    21300028: throw_barrel_15
+    21300030: throw_barrel_16
+    21300032: throw_barrel_17
+    21300034: throw_barrel_18
+    21300036: throw_barrel_19
+    21300038: throw_barrel_20
+    21300040: throw_barrel_21
+    21300042: throw_barrel_22
+    21300044: throw_barrel_23
+    21300046: throw_barrel_24
+    21300048: throw_barrel_25
+    21300050: throw_barrel_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: throw_barrel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3626
+        width: 380
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3626
+        width: 380
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 3626
+        width: 398
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_3
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 3626
+        width: 393
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_4
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3626
+        width: 422
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3156
+        width: 426
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3156
+        width: 452
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3156
+        width: 439
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3156
+        width: 439
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2677
+        width: 396
+        height: 479
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2631
+        width: 347
+        height: 525
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_12
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2620
+        width: 321
+        height: 536
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2621
+        width: 320
+        height: 535
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_14
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2652
+        width: 331
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2133
+        width: 355
+        height: 488
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2151
+        width: 375
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2149
+        width: 386
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_18
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2149
+        width: 395
+        height: 472
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_19
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2150
+        width: 402
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 394
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1660
+        width: 355
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1661
+        width: 370
+        height: 472
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1661
+        width: 353
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_24
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1662
+        width: 352
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 359
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: throw_barrel_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1189
+        width: 376
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: db33f53899709f441adf2a5ff8a203b0
+timeCreated: 1482519781
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle Animation_0
+    21300002: Idle Animation_1
+    21300004: Idle Animation_2
+    21300006: Idle Animation_3
+    21300008: Idle Animation_4
+    21300010: Idle Animation_5
+    21300012: Idle Animation_6
+    21300014: Idle Animation_7
+    21300016: Idle Animation_8
+    21300018: Idle Animation_9
+    21300020: Idle Animation_10
+    21300022: Idle Animation_11
+    21300024: Idle Animation_12
+    21300026: Idle Animation_13
+    21300028: Idle Animation_14
+    21300030: Idle Animation_15
+    21300032: Idle Animation_16
+    21300034: Idle Animation_17
+    21300036: Idle Animation_18
+    21300038: Idle Animation_19
+    21300040: Idle Animation_20
+    21300042: Idle Animation_21
+    21300044: Idle Animation_22
+    21300046: Idle Animation_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1638
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1638
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1638
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1638
+        width: 245
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1638
+        width: 237
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1638
+        width: 230
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1638
+        width: 241
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1228
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1228
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1228
+        width: 234
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_12
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1228
+        width: 238
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1228
+        width: 236
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1228
+        width: 245
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1228
+        width: 240
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 818
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 818
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 818
+        width: 240
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_20
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 818
+        width: 232
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 818
+        width: 240
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 818
+        width: 240
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
